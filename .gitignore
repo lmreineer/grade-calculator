@@ -20,7 +20,6 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
-build.xml
 
 ## Gradle
 bin/
@@ -71,5 +70,4 @@ nb-configuration.xml
 
 ## Miscellaneous
 *.log
-manifest.mf
 lib/
